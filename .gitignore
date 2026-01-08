@@ -1,0 +1,94 @@
+# ============================================
+# 忽略不重要的文件，保留核心代码
+# ============================================
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Experiments and weights (模型权重文件)
+experiments/
+*.pth
+*.pkl
+*.ckpt
+*.h5
+*.hdf5
+*.pb
+*.onnx
+*.pt
+*.pth
+*.pth.tar
+
+# Logs and debug files
+*.log
+*.out
+*.err
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vimrc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# Restore directory
+Restore/
+
+# Scripts directory
+scripts/
+
+# Data files (如果有时有大的数据文件)
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Documentation build files
+docs/_build/
+docs/build/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
