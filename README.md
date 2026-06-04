@@ -1,4 +1,3 @@
-# 🌟 A Retinex-Guided Dual-Domain Network for Joint Low-Light Image Enhancement and Deraining
 
 ---
 
@@ -94,10 +93,6 @@ This project is built upon the following excellent works:
 
 We thank the authors for their outstanding contributions to the community.
 
-## 📧 Contact
-
-If you have any questions, please feel free to reach out:
-- Email: xiaoyao227192@163.com
 
 ## 📄 License
 
